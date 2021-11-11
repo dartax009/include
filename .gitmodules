@@ -1,0 +1,6 @@
+[submodule "fwlist"]
+	path = fwlist
+	url = https://github.com/dartax009/fwlist.git
+[submodule "tires"]
+	path = tires
+	url = https://github.com/dartax009/tires.git
