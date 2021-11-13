@@ -4,3 +4,6 @@
 [submodule "tires"]
 	path = tires
 	url = https://github.com/dartax009/tires.git
+[submodule "devices"]
+	path = devices
+	url = https://github.com/dartax009/devices.git
