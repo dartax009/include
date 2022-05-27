@@ -7,3 +7,6 @@
 [submodule "devices"]
 	path = devices
 	url = https://github.com/dartax009/devices.git
+[submodule "twlist"]
+	path = twlist
+	url = https://github.com/dartax009/twlist.git
